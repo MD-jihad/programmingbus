@@ -1,0 +1,90 @@
+.box3{
+    width: 100%;
+    height: 400px;
+    display: flex;
+}
+.rt1{
+    width: 500px;
+    height: 500px;
+}
+.rt1 h3{
+    margin: 65px -203px 0px 0px;
+}
+.rt2 img{
+    margin-left:  660px;
+    display: inline-block;
+}
+.rt1 h4{
+    width: 100px;
+    height: 40px;
+    background-color: orangered;
+    text-align: center;
+    padding: 10px 0px 0px 0px ;
+    border-radius: 12px;
+    margin: 52px 0px 90px 42px;
+    transition-property: background-color ;
+    transition-duration: 1s;
+    transition-delay: 2;
+    transition-timing-function: ease-in;
+     
+    }
+    .rt1 h4:hover{
+        background-color: springgreen;
+        
+            }    
+    
+
+.vul h2{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+}
+.footer{
+    display: flex;
+}
+.icon1{
+    background-color: #fff;
+    margin: 10px 0px 0px 684px;
+    border-radius: 22px;
+    transition-property: background-color ;
+    transition-duration: 1s;
+    transition-delay: 2;
+    transition-timing-function: ease-in;
+     
+    }
+    .icon1:hover{
+        background-color: springgreen;
+        
+            }    
+
+
+.icon2{
+    margin: 10px 10px 0px  10px;
+background-color: #fff;
+    border-radius: 22px;
+    transition-property: background-color ;
+    transition-duration: 1s;
+    transition-delay: 2;
+    transition-timing-function: ease-in;
+     
+    }
+    .icon2:hover{
+        background-color: springgreen;
+        
+            }    
+
+
+.icon3{
+    margin-top: 10px;
+background-color: #fff;
+    border-radius: 22px;
+    transition-property: background-color ;
+    transition-duration: 1s;
+    transition-delay: 2;
+    transition-timing-function: ease-in;
+     
+    }
+    .icon3:hover{
+        background-color: springgreen;
+        
+            }    
+

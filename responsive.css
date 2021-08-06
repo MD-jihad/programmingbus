@@ -1,0 +1,100 @@
+@media only screen and (max-width: 1450px){
+    .navbar ul{
+        flex-direction: column;
+    }
+    .navbar li{
+        margin: 5px 0px 0px 290px;
+    }
+    .h h3 {
+        width: 100%;
+        height: 20px;
+       margin-top: -20px;
+        font-size: 10px;}
+        .h p{
+            margin: 13px;
+            transition-property: background-color;
+            transition-duration: 1s;
+            transition-delay: 1;
+            
+        }
+        .h p:hover{
+            background-color: springgreen;
+            width: 40px;
+            height: 20px;
+         padding:15px 10px 10px 10px ;
+        }
+        
+        .h img{
+            margin: 0px;
+        }
+  .h{
+      width: 100%;
+      height: 200px;
+  }
+  .side img{
+      width: 140px;
+      height: 140px;
+      margin: 90px 33px 0px 57px;
+  }
+  .w3s h2{
+      font-size: 17px;
+  }
+  .w3s h3{
+      font-size: 15px;
+  }
+  .box2 img{
+      width: 164px;
+      height: 180px;
+      margin: 2px 0px 0px 0px;
+  }
+  .iam2{
+      flex-direction: column;}
+  
+      .ser1 img{
+      width: 80px;
+      height: 81px;
+margin: 40px 10px 10px 112px;
+      
+  }
+  .iam2 .ser1{
+      width: 301px;
+      height: 300px;
+      margin:212px 16px 0px -97px ;
+  }
+  .iam1{
+      display: inline-block;
+  }
+  .ser2 img{
+    width: 80px;
+    height: 81px;
+margin: 40px 10px 10px 112px;
+    
+}
+.iam2 .ser2{
+    width: 301px;
+    height: 300px;
+    margin:38px 16px 0px -97px ;
+}
+.vul h2{
+    font-size: 15px;
+}
+.rt1 h3{
+    font-size: 15px;
+    margin-top:58px ;
+}
+.rt1{
+    width: 100%;
+    height: 200px;
+    margin: 108px 0px 0px 0px ;
+}
+.rt2 img{
+width: 200px;
+height: 200px;
+margin: -32px 0px 0px 0px;
+}
+.icon1{
+    margin-left: 131px;
+    margin-top: 10px;
+}
+    }
+    

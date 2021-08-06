@@ -1,0 +1,89 @@
+.iam2 .ser1{
+width: 300px;
+height: 300px;
+background-color:rgb(212, 204, 204);
+margin:75px 16px 0px 134px ;
+transition-property: background-color ;
+transition-duration: 1s;
+transition-delay: 2;
+transition-timing-function: ease-in;
+
+
+}
+.iam2 .ser1:hover{
+    background-color: springgreen;
+    
+        }   
+.iam2 .ser2{
+    width: 300px;
+    height: 300px;
+    background-color:rgb(212, 204, 204);
+    margin: 75px 0px 0px 193px;
+    transition-property: background-color ;
+    transition-duration: 1s;
+    transition-delay: 2;
+    transition-timing-function: ease-in;
+     
+    }
+    .iam2 .ser2:hover{
+        background-color: springgreen;
+        
+            }    
+    .iam2{
+        display: flex;
+    }
+
+.iam1{
+    display: inline-block;
+}
+.box2{
+    display: flex;
+}
+.ser1 img{
+    margin: 50px 10px 10px 112px;
+}
+.ser2 img{
+    margin: 50px 10px 10px 112px;
+}
+.ser2 p{
+    font-family: 'Festive', cursive;;
+}
+.ser1 p{
+    font-family: 'Festive', cursive;
+}
+.ser1 h3{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+    
+}
+.ser2 h3{
+    font-family: 'Indie Flower', cursive;
+    text-align: center;
+}
+.nam1 {
+width: 299px;
+height: 60px;
+background-color: white;
+border: 1px solid rgb(212, 204, 204);;
+transition-property: border;
+transition-duration: 1s;
+transition-delay: 2;
+transition-timing-function: ease-in;
+}
+.nam1:hover{
+    border: 1px solid springgreen;
+}
+.nam2 {
+    width: 299px;
+    height: 60px;
+    background-color: white;
+    border: 1px solid rgb(212, 204, 204);;
+    transition-property: border;
+    transition-duration: 1s;
+    transition-delay: 2;
+    transition-timing-function: ease-in;
+    }
+    .nam2:hover{
+        border: 1px solid rgb(88, 236, 162);
+    }
+
